@@ -2,7 +2,7 @@
 
 ### Backend Engineer — Java, Spring Boot, Hexagonal Architecture & Event-Driven Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Singgih%20Pratama-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singgih-pratama/) [![Email](https://img.shields.io/badge/Email-sp.mastama%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sp.mastama@gmail.com) [![Location](https://img.shields.io/badge/Based%20in-Bekasi%2C%20Indonesia-2E2E2E?style=flat)](https://github.com/sipratama)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Singgih%20Pratama-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singgih-pratama/) [![Email](https://img.shields.io/badge/Email-sp.mastama%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sp.mastama@gmail.com) [![Location](https://img.shields.io/badge/Based%20in-Bekasi%2C%20Indonesia-2E2E2E?style=flat)](https://github.com/sipratama) ![Profile Views](https://komarev.com/ghpvc/?username=sipratama&color=2E2E2E&style=flat&label=Profile+Views)
 
 ---
 
@@ -92,9 +92,13 @@ Prompt Engineering · AI Coding Agents · Agentic Workflow Design · Automated C
 
 ### ⚙️ GitHub Analytics
 
-[![stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sipratama&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/sipratama)
+[![stats](./profile/stats.svg)](https://github.com/sipratama)
 
-[![top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sipratama&layout=compact&theme=algolia)](https://github.com/sipratama)
+[![top langs](./profile/top-langs.svg)](https://github.com/sipratama)
+
+[![streak](https://streak-stats.demolab.com/?user=sipratama&theme=algolia)](https://github.com/sipratama)
+
+> Note: stats & top-langs above are generated automatically once a day by a GitHub Action (`.github/workflows/update-readme-stats.yml`) and committed straight into this repo, so they don't depend on any third-party service staying up. The streak card still calls an external service (demolab.com), which has generally been reliable.
 
 ---
 
@@ -102,7 +106,7 @@ Prompt Engineering · AI Coding Agents · Agentic Workflow Design · Automated C
 
 [![LinkedIn](https://img.shields.io/badge/-Singgih%20Pratama-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/singgih-pratama) [![Gmail](https://img.shields.io/badge/-sp.mastama%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sp.mastama@gmail.com)
 
-*Backend engineer by trade, product builder by curiosity.* 
+*Backend engineer by trade, product builder by curiosity.*
 
 <div align="center">
 
